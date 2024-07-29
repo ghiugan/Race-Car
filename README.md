@@ -7,7 +7,7 @@ gears needed for the movement of the car. With this in mind I creatively designe
 efficient race car from a tin can resulting in me winning first place in the competition as well as
 the “Abbey 500” award.
 
-# Link to Reports:
+# Link to Report:
 [ProjectReport.pdf](ProjectReport.pdf)
 
 
